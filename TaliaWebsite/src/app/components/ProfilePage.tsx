@@ -289,7 +289,7 @@ export default function ProfilePage() {
             <strong>Talia Weiss</strong> is an online creator with a deep fascination with horses.
             She's been riding and training them since childhood. Now, Talia focuses on creating
             high-engaging content around her life. She was born on May 5&nbsp;2001 and is a rising
-            Internet celebrity.
+            Internet personality.
           </p>
 
           <div style={{ display: "flex", justifyContent: "center" }}>
