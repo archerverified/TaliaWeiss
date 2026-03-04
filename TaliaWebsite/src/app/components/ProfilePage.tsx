@@ -189,9 +189,9 @@ export default function ProfilePage() {
               {/* name */}
               <div style={{ display: "flex", alignItems: "center", justifyContent: "center",
                             gap: "8px", marginBottom: "4px" }}>
-                <span style={{ color: "white", fontSize: "30px", fontWeight: 700, letterSpacing: "-0.5px" }}>
+                <h1 style={{ color: "white", fontSize: "30px", fontWeight: 700, letterSpacing: "-0.5px", margin: 0 }}>
                   Talia Weiss
-                </span>
+                </h1>
                 <img src={imgBadge} alt="Verified"
                   style={{ width: "22px", height: "22px", borderRadius: "50%" }} />
               </div>
@@ -288,7 +288,7 @@ export default function ProfilePage() {
           }}>
             <strong>Talia Weiss</strong> is an online creator with a deep fascination with horses.
             She's been riding and training them since childhood. Now, Talia focuses on creating
-            high-engaging content around her life. She was born on May 5&nbsp;2001 and is a rising
+            high-engaging content around her life. She was born on May 2&nbsp;2001 and is a rising
             Internet personality.
           </p>
 

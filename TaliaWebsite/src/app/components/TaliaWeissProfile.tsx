@@ -176,7 +176,7 @@ export default function TaliaWeissProfile() {
               <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col h-[382px] justify-center leading-[0] left-[950px] not-italic text-[48px] text-center text-white top-[3976px] w-[1336px]" style={{ fontWeight: 400 }}>
                 <p className="whitespace-pre-wrap">
                   <span className="leading-[normal]" style={{ fontWeight: 700 }}>Talia Weiss</span>
-                  <span className="leading-[normal]">{` is an online creator with a deep fascination with horses. She's been riding and training them as a child. Now, Talia focuses on creating high-engaging content around her life. She was born on May 5 2001 and is a rising Internet celebrity.`}</span>
+                  <span className="leading-[normal]">{` is an online creator with a deep fascination with horses. She's been riding and training them as a child. Now, Talia focuses on creating high-engaging content around her life. She was born on May 2 2001 and is a rising Internet celebrity.`}</span>
                 </p>
               </div>
               <div className="absolute bg-[red] h-[136.24px] left-[495.59px] rounded-[50px] top-[4167px] w-[908.969px]" />
